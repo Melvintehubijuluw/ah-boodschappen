@@ -179,10 +179,18 @@ export function maxVoorraad(artikel: Artikel, marge = 0.2): number | null {
   return (artikel.verbruikPerWeek * artikel.houdbaarheidDagen * (1 - marge)) / 7;
 }
 
-/** Nieuwe meting toevoegen (max 8 bewaard); gemiddelde van de laatste 4, op 1 decimaal. */
-export function werkVerbruikBij(historie: number[], gemeten: number): { historie: number[]; gemiddelde: number } {
-  const nieuw = [...historie, Math.max(0, gemeten)].slice(-8);
-  const laatste = nieuw.slice(-4);
+/** Bij deze houdbaarheid of langer verbruik je langzaam en onregelmatig (wasmiddel, olie): middel over een kwartaal. */
+export const LANG_HOUDBAAR_DAGEN = 60;
+
+/** Meetvenster in weken: 4 voor verse producten, 13 voor lang houdbare. */
+export function meetVenster(artikel: Artikel): number {
+  return (artikel.houdbaarheidDagen ?? 0) >= LANG_HOUDBAAR_DAGEN ? 13 : 4;
+}
+
+/** Nieuwe meting toevoegen (max 13 bewaard); gemiddelde over de laatste `venster` weken, op 1 decimaal. */
+export function werkVerbruikBij(historie: number[], gemeten: number, venster = 4): { historie: number[]; gemiddelde: number } {
+  const nieuw = [...historie, Math.max(0, gemeten)].slice(-13);
+  const laatste = nieuw.slice(-venster);
   const gemiddelde = Math.round((laatste.reduce((s, n) => s + n, 0) / laatste.length) * 10) / 10;
   return { historie: nieuw, gemiddelde };
 }

@@ -26,7 +26,7 @@ export const ArtikelSchema = z.object({
   bederfelijk: z.boolean().default(false),
   /** Gemiddeld verbruik per week in de eenheid van het artikel (standaardartikelen en voorraadkast). */
   verbruikPerWeek: z.number().nonnegative().optional(),
-  /** Gemeten verbruik per week, nieuwste laatst (max 8 bewaard). */
+  /** Gemeten verbruik per week, nieuwste laatst (max 13 bewaard). */
   verbruikHistorie: z.array(z.number().nonnegative()).default([]),
   /** Voorraadkast: bestel aan als voorraad onder deze hoeveelheid zakt. */
   minVoorraad: z.number().nonnegative().optional(),

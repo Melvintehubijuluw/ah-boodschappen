@@ -23,7 +23,7 @@ import {
   volgendeMaandag,
 } from "./data/store.js";
 import { parseActie } from "./domain/actie.js";
-import { bepaalAankoop, maxVoorraad, werkVerbruikBij, type Kandidaat } from "./domain/bestellen.js";
+import { bepaalAankoop, maxVoorraad, meetVenster, werkVerbruikBij, type Kandidaat } from "./domain/bestellen.js";
 import { inhoudVanProduct } from "./domain/eenheden.js";
 import { dagVolgorde, kiesMenu, type PlanContext, type ReceptScore } from "./domain/planner.js";
 import { besteEenheidsprijs, isEchteBonus, regulierePrijs } from "./domain/prijs.js";
@@ -231,7 +231,7 @@ export function verwerkTelling(w: Week, correcties: Record<string, number>): { v
       const gemeten = Math.max(0, ((r.geteld + r.ontvangen - r.recepten - (nieuw[a.id] ?? 0)) * 7) / dagen);
       // De eerste schatting van de gebruiker telt mee als eerste meting.
       const basis = a.verbruikHistorie.length === 0 && a.verbruikPerWeek !== undefined ? [a.verbruikPerWeek] : a.verbruikHistorie;
-      const { historie, gemiddelde } = werkVerbruikBij(basis, gemeten);
+      const { historie, gemiddelde } = werkVerbruikBij(basis, gemeten, meetVenster(a));
       a.verbruikHistorie = historie;
       a.verbruikPerWeek = gemiddelde;
       verbruik.push({ artikel: a.id, gemeten, gemiddelde });

@@ -146,10 +146,19 @@ describe("maxVoorraad", () => {
 });
 
 describe("werkVerbruikBij", () => {
-  it("voegt toe, bewaart max 8 en middelt de laatste 4", () => {
+  it("middelt standaard de laatste 4", () => {
     const r = werkVerbruikBij([1, 2, 3, 4, 5, 6, 7, 8], 9);
-    expect(r.historie).toEqual([2, 3, 4, 5, 6, 7, 8, 9]);
+    expect(r.historie).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 9]);
+    expect(werkVerbruikBij(Array(13).fill(1), 2).historie).toHaveLength(13);
     expect(r.gemiddelde).toBe(7.5);
+  });
+  it("langzame producten middelen over een langer venster (max 13 weken)", () => {
+    // Wasmiddel: één fles van 50 wasbeurten in ±9 weken, gemeten als pieken en nullen.
+    const historie = [0, 0, 25, 0, 0, 0, 0, 25, 0, 0, 0, 0];
+    const r = werkVerbruikBij(historie, 0, 13);
+    expect(r.historie).toHaveLength(13);
+    expect(r.gemiddelde).toBe(3.8); // 50 / 13
+    expect(werkVerbruikBij(historie, 0).gemiddelde).toBe(0); // standaard 4 weken: ten onrechte "geen verbruik"
   });
   it("met korte historie", () => {
     expect(werkVerbruikBij([], 3000)).toEqual({ historie: [3000], gemiddelde: 3000 });
