@@ -12,6 +12,12 @@ Volg de stappen in volgorde. De afspraken in `CLAUDE.md` gelden. Reken niet zelf
    - Meldt `controle` problemen (inhoud onbekend, houdbaarheid of verbruik ontbreekt), los ze eerst op. Schat de houdbaarheid zelf voorzichtig in; vraag het verbruik aan de gebruiker.
 2. Draai `npm run ah -- prijzen` (bonus en prijzen van de bezorgweek; standaard bezorging op de eerstvolgende maandag).
 3. Open in Claude in Chrome een nieuw tabblad op `https://www.ah.nl/`. Controleer of de gebruiker is ingelogd. Zo niet, vraag de gebruiker in te loggen en wacht.
+4. **Standaardlijstje bijwerken** (de gebruikers voegen daar zelf producten aan toe of halen ze weg):
+   - Voer de output van `npm run ah -- web standaardlijst` uit met `javascript_tool`.
+   - Geef het resultaat (de JSON) door aan `npm run ah -- standaardlijst '<json>'`.
+   - `NIEUW`: draai `npm run ah -- product <id>`. Maak een standaardartikel aan in `data/artikelen.json` (zie `/voorraad`). Schat de houdbaarheid zelf in en vraag de gebruiker alleen het weekverbruik. Is het eigenlijk een vervanger van een bestaand artikel (zelfde product, ander merk), voeg het dan daar toe.
+   - `WORDT STANDAARD`: zet `standaard: true` en vraag het weekverbruik.
+   - `VERDWENEN`: vraag of het artikel van de standaardlijst af mag (`standaard: false`). Misschien is het per ongeluk verwijderd.
 
 ## 1. Persoonlijke bonus (Bonus Box)
 1. Lees de persoonlijke aanbiedingen op `https://www.ah.nl/bonus` (persoonlijke bonus / Bonus Box) met `get_page_text`.

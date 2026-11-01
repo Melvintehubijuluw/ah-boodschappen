@@ -21,6 +21,7 @@ import { formatEenheidsprijs, formatEuro, formatHoeveelheid, inhoudVanProduct, p
 import { regulierePrijs } from "./domain/prijs.js";
 import { renderReceptenMd } from "./render/recepten-md.js";
 import { renderWeekMd } from "./render/week-md.js";
+import { STANDAARD_LIJST, vergelijkStandaardlijst } from "./standaardlijst.js";
 import { scriptAlleLijsten, scriptLeesLijst, scriptLeesMand, scriptMaakLijst, scriptVulMand } from "./web/scripts.js";
 import {
   bonusKandidaten,
@@ -316,6 +317,24 @@ program
   });
 
 program
+  .command("standaardlijst <json>")
+  .description("Vergelijk het AH-standaardlijstje (output van `web standaardlijst`) met de standaardartikelen")
+  .action((tekst: string) => {
+    const lijst = JSON.parse(tekst) as { items: { productId: number }[] };
+    const artikelen = laadArtikelen();
+    const producten = laadProducten();
+    const v = vergelijkStandaardlijst(
+      lijst.items.map((i) => i.productId),
+      artikelen,
+    );
+    const naam = (id: number) => producten[String(id)]?.titel ?? `product ${id} (draai: product ${id})`;
+    if (!v.nieuw.length && !v.wordtStandaard.length && !v.verdwenen.length) return console.log("Standaardlijst ongewijzigd.");
+    for (const id of v.nieuw) console.log(`NIEUW\t${id}\t${naam(id)}`);
+    for (const x of v.wordtStandaard) console.log(`WORDT STANDAARD\t${x.productId}\t${naam(x.productId)}\t(artikel ${x.artikel})`);
+    for (const id of v.verdwenen) console.log(`VERDWENEN\t${id}\t${artikelen.find((a) => a.id === id)?.naam}`);
+  });
+
+program
   .command("controle")
   .description("Controleer of alle data klopt (verwijzingen, inhoud van producten)")
   .action(() => {
@@ -343,6 +362,10 @@ web
   .description("Voeg de bestelling van de week toe aan de winkelmand")
   .option(...leverOptie)
   .action((o) => console.log(scriptVulMand(week(o).bestelling.map((r) => ({ productId: r.productId, aantal: r.aantal })))));
+web
+  .command("standaardlijst")
+  .description("Lees het AH-standaardlijstje")
+  .action(() => console.log(scriptLeesLijst(STANDAARD_LIJST)));
 web.command("lijst <id>").description("Lees een favorietenlijstje").action((id: string) => console.log(scriptLeesLijst(id)));
 web.command("lijsten").description("Lijstjes op de pagina ah.nl/favorieten").action(() => console.log(scriptAlleLijsten()));
 web

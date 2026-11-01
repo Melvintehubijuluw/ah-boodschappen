@@ -32,6 +32,10 @@ Wekelijkse Albert Heijn-bestelling voor een huishouden van 2 personen. Claude pl
 - **Basisingrediënten** (zout, olie, kruiden, bouillon) staan in het recept met `voorraadkast: true`. Bestel ze alleen als de voorraad laag is.
 - **Online recepten:** sla alleen de ingrediënten op en link naar de bron. Neem de bereidingstekst niet over (auteursrecht). Bij eigen recepten mag de bereiding er wel in.
 
+**Standaardlijst**
+- Op ah.nl staat het lijstje "Standaardlijst": https://www.ah.nl/favorieten/lijst/0cbfb39e-0394-42fb-afa3-113f4eefe30c
+- De gebruikers voegen daar zelf producten aan toe of halen ze weg. Elke `/weekbestelling` begint daarom met `web standaardlijst` en daarna `standaardlijst '<json>'`, om de standaardartikelen bij te werken.
+
 **Voorraad en verbruik**
 - Laat eerst de verwachte voorraad zien. De gebruiker stuurt foto's (via Remote Control vanaf de telefoon) en correcties in vrije tekst. Vraag alleen naar twijfelgevallen.
 - Schattingen volstaan. Reken foto's en tekst om naar g, ml of stuks.
