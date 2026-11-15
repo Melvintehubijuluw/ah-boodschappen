@@ -92,7 +92,7 @@
 
 - 130 g Zilvervliesrijst — 65 g p.p. · AH: AH Zilvervliesrijst
 - 20 ml Wasabi-mayo — 4 theelepels · voorraadkast · AH: Mayoneur Wasabi mayo
-- 125 g Avocadostukjes — AH: AH Avocado stukjes
+- 125 g Avocadostukjes (diepvries) — AH: AH Avocado stukjes
 - 5 g Verse koriander (bakje) — een paar stengels · AH: AH Koriander
 - 250 g Mangostukjes (diepvries) — AH: AH Zakje met mangostukjes
 - 337,5 g Wilde zalmfilets (diepvries) — ½ zak · AH: AH Wilde zalmfilets
@@ -129,7 +129,7 @@
 - 100 g Zuivelspread light — ½ kuipje · AH: AH Zuivelspread light
 - 75 g Koolmix — ½ zakje · AH: AH Koolmix
 - 7,5 ml Rijstazijn — ½ eetlepel · voorraadkast · AH: AH Rijstazijn
-- 2 stuks Rode puntpaprika — AH: AH Sweet palermo rode puntpaprika
+- 2 stuks Rode puntpaprika — AH: AH Sweet Palermo rode puntpaprika
 
 <a id="vega-schnitzels-aardappelpartjes"></a>
 ## Vega schnitzels met salade en aardappelpartjes
@@ -143,12 +143,12 @@
 **Ingrediënten**
 
 - 100 g Augurken groot zoetzuur — 2 augurken · voorraadkast · AH: AH Augurken groot zoetzuur
-- 600 g Aardappelpartjes knoflook en rozemarijn — 1 zak · AH: AH Aardappelpartjes knoflook en rozemarijn
+- 600 g Aardappelpartjes knoflook en rozemarijn (diepvries) — 1 zak · AH: AH Aardappelpartjes knoflook en rozemarijn
 - 2 stuks Plantaardige crispy chicken burger — 1 pak · AH: Vivera Plantaardige crispy chicken burger
 - 42,5 g Veldsla — ½ zak · AH: AH Veldsla
 - 250 g Snoeptomaten — AH: AH Snoepgroente tomaat
 - 100 g Witte kaas 40+ — ½ pakje · AH: AH Witte kaas 40+
-- 2 stuks Rode puntpaprika — AH: AH Sweet palermo rode puntpaprika
+- 2 stuks Rode puntpaprika — AH: AH Sweet Palermo rode puntpaprika
 - 0,5 stuks Komkommer — AH: AH Komkommer
 
 <a id="vega-shoarma-wraps"></a>

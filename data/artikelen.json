@@ -449,14 +449,13 @@
   },
   {
     "id": "avocado-stukjes",
-    "naam": "Avocadostukjes",
+    "naam": "Avocadostukjes (diepvries)",
     "eenheid": "g",
     "producten": [
       365661
     ],
     "zoekterm": "avocado stukjes",
-    "houdbaarheidDagen": 180,
-    "notitie": "Aangenomen: diepvries. Corrigeer als het vers is."
+    "houdbaarheidDagen": 180
   },
   {
     "id": "koriander-vers",
@@ -578,13 +577,13 @@
   },
   {
     "id": "aardappelpartjes-knoflook-rozemarijn",
-    "naam": "Aardappelpartjes knoflook en rozemarijn",
+    "naam": "Aardappelpartjes knoflook en rozemarijn (diepvries)",
     "eenheid": "g",
     "producten": [
       150182
     ],
     "zoekterm": "aardappelpartjes knoflook rozemarijn",
-    "houdbaarheidDagen": 7
+    "houdbaarheidDagen": 270
   },
   {
     "id": "veldsla",
@@ -647,13 +646,15 @@
     "naam": "Rode puntpaprika",
     "eenheid": "stuk",
     "producten": [
-      123865,
       579310
     ],
     "zoekterm": "puntpaprika",
     "houdbaarheidDagen": 7,
     "bederfelijk": true,
-    "notitie": "Pak van 500 g ≈ 4 stuks; goedkoper per stuk bij meerdere gerechten."
+    "notitie": "Altijd de zak van 500 g (±4 stuks), niet het pak met 2 stuks.",
+    "afgewezen": [
+      123865
+    ]
   },
   {
     "id": "volkoren-wraps",
