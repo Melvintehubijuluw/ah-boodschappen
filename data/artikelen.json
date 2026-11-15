@@ -341,10 +341,11 @@
     ],
     "zoekterm": "protein mousse",
     "houdbaarheidDagen": 21,
-    "verbruikPerWeek": 800,
+    "verbruikPerWeek": 2000,
     "afgewezen": [
       585901
-    ]
+    ],
+    "notitie": "10 bakjes per week (2 per dag, 5 dagen)."
   },
   {
     "id": "griekse-yoghurt",
