@@ -1,0 +1,549 @@
+{
+  "week": "2026-W47",
+  "leverdatum": "2026-11-16",
+  "status": "besteld",
+  "menu": [
+    {
+      "dag": "maandag",
+      "recept": "aziatische-burgers",
+      "dubbel": false,
+      "vastgezet": false
+    },
+    {
+      "dag": "dinsdag",
+      "recept": "vega-schnitzels-aardappelpartjes",
+      "dubbel": false,
+      "vastgezet": false
+    },
+    {
+      "dag": "woensdag",
+      "recept": "groene-pizza",
+      "dubbel": false,
+      "vastgezet": false
+    },
+    {
+      "dag": "donderdag",
+      "recept": "bbq-zalm",
+      "dubbel": false,
+      "vastgezet": false
+    },
+    {
+      "dag": "vrijdag",
+      "recept": "ovenpasta-courgette-aubergine",
+      "dubbel": false,
+      "vastgezet": false
+    },
+    {
+      "dag": "zaterdag",
+      "recept": "groene-pizza",
+      "dubbel": false,
+      "vastgezet": false
+    }
+  ],
+  "vooruitRecepten": [],
+  "persoonlijkeBonus": [
+    {
+      "productId": 563663,
+      "nu": 2.92,
+      "omschrijving": "25% korting"
+    },
+    {
+      "productId": 596720,
+      "omschrijving": "2e halve prijs"
+    },
+    {
+      "productId": 193247,
+      "nu": 0.84,
+      "omschrijving": "15% korting"
+    }
+  ],
+  "bestelling": [
+    {
+      "productId": 471641,
+      "titel": "AH Snoepgroente tomaat",
+      "artikel": "snoeptomaten",
+      "aantal": 2,
+      "kosten": 4.99,
+      "reden": "nodig",
+      "toelichting": "2 voor 4.99: €4,99/kg i.p.v. €5,99/kg, 2×",
+      "besparing": 1
+    },
+    {
+      "productId": 596720,
+      "titel": "AH Extra lang lekker waldkorn volkoren half",
+      "artikel": "waldkorn-brood",
+      "aantal": 1,
+      "kosten": 1.39,
+      "reden": "nodig",
+      "toelichting": "2e halve prijs: €1,39/stuk, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 458995,
+      "titel": "De Zaanse Hoeve Magere kwark",
+      "artikel": "magere-kwark",
+      "aantal": 1,
+      "kosten": 1.65,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €1,65/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 453733,
+      "titel": "AH Tortilla wraps volkoren large",
+      "artikel": "tortilla-wraps",
+      "aantal": 1,
+      "kosten": 0.94,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €2,54/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 47285,
+      "titel": "Olav's Gerookte zalmfilet",
+      "artikel": "gerookte-zalm",
+      "aantal": 1,
+      "kosten": 5.95,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €29,75/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 111767,
+      "titel": "AH Rucola",
+      "artikel": "rucola",
+      "aantal": 1,
+      "kosten": 1.09,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €12,82/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 450536,
+      "titel": "AH Houdbare magere melk",
+      "artikel": "houdbare-magere-melk",
+      "aantal": 2,
+      "kosten": 1.54,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,77/L, 2×",
+      "besparing": 0
+    },
+    {
+      "productId": 450534,
+      "titel": "AH Houdbare halfvolle melk",
+      "artikel": "houdbare-halfvolle-melk",
+      "aantal": 2,
+      "kosten": 1.6,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,80/L, 2×",
+      "besparing": 0
+    },
+    {
+      "productId": 506229,
+      "titel": "AH Zuivelspread light",
+      "artikel": "zuivelspread-light",
+      "aantal": 2,
+      "kosten": 2.72,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €6,80/kg, 2×",
+      "besparing": 0
+    },
+    {
+      "productId": 582336,
+      "titel": "AH Zakje met banaan plakjes",
+      "artikel": "diepvries-banaan",
+      "aantal": 1,
+      "kosten": 4.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €4,99/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 376521,
+      "titel": "AH Zakje met blauwe bessen",
+      "artikel": "diepvries-blauwe-bessen",
+      "aantal": 1,
+      "kosten": 5.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €5,99/kg, 1× (900 g nodig, 100 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 591782,
+      "titel": "Go-Tan Crispy chilli oil",
+      "artikel": "chili-olie",
+      "aantal": 1,
+      "kosten": 4.15,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €21,84/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 439266,
+      "titel": "Nakd. Blueberry muffin bars",
+      "artikel": "nakd-blueberry-muffin",
+      "aantal": 1,
+      "kosten": 3.79,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,95/stuk, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 503358,
+      "titel": "AH Terra Plantaardig 100% pindakaas met stukjes",
+      "artikel": "pindakaas",
+      "aantal": 1,
+      "kosten": 5.69,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €5,69/kg, 1× (900 g nodig, 100 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 460465,
+      "titel": "AH Terra Ongebrande walnoten",
+      "artikel": "walnoten",
+      "aantal": 1,
+      "kosten": 6.19,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €12,38/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 130273,
+      "titel": "AH Verse scharreleieren M",
+      "artikel": "eieren",
+      "aantal": 1,
+      "kosten": 6.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,35/stuk, 1× (16 stuks nodig, 4 stuks extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 585900,
+      "titel": "Arla Protein chocolade fudge mousse",
+      "artikel": "protein-mousse-chocolade",
+      "aantal": 9,
+      "kosten": 8.91,
+      "reden": "inslaan",
+      "toelichting": "voor 0.99: €4,95/kg i.p.v. €7,45/kg, 9× (800 g nodig, 1 kg inslaan)",
+      "besparing": 4.5
+    },
+    {
+      "productId": 407959,
+      "titel": "De Zaanse Hoeve Yoghurt Griekse stijl 2% vet",
+      "artikel": "griekse-yoghurt",
+      "aantal": 1,
+      "kosten": 1.95,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €1,95/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 54074,
+      "titel": "AH Komkommer",
+      "artikel": "komkommer",
+      "aantal": 3,
+      "kosten": 2.55,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,85/stuk, 3× (2,5 stuks nodig, 0,5 stuks extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 386308,
+      "titel": "Magioni bloemkoolbodem pizza",
+      "artikel": "bloemkool-pizzabodem",
+      "aantal": 2,
+      "kosten": 7.98,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €10,23/kg, 2×",
+      "besparing": 0
+    },
+    {
+      "productId": 567317,
+      "titel": "AH Gorgonzola 48+",
+      "artikel": "gorgonzola",
+      "aantal": 1,
+      "kosten": 2.75,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €13,75/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 4164,
+      "titel": "AH Courgette",
+      "artikel": "courgette",
+      "aantal": 3,
+      "kosten": 2.55,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,85/stuk, 3×",
+      "besparing": 0
+    },
+    {
+      "productId": 611642,
+      "titel": "AH Basilicum",
+      "artikel": "basilicum-vers",
+      "aantal": 2,
+      "kosten": 2.58,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €58,64/kg, 2× (25 g nodig, 19 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 170655,
+      "titel": "AH Groene pesto",
+      "artikel": "groene-pesto",
+      "aantal": 1,
+      "kosten": 1.13,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €5,95/kg, 1× (95 g nodig, 95 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 788,
+      "titel": "AH Tuinerwten fijn",
+      "artikel": "doperwten-diepvries",
+      "aantal": 1,
+      "kosten": 0.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €2,20/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 560692,
+      "titel": "AH Burrata 50+",
+      "artikel": "burrata",
+      "aantal": 1,
+      "kosten": 1.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €7,96/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 4180,
+      "titel": "AH Aubergine",
+      "artikel": "aubergine",
+      "aantal": 1,
+      "kosten": 1.09,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €1,09/stuk, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 140101,
+      "titel": "De Zaanse Hoeve Mild 45+ geraspt",
+      "artikel": "geraspte-kaas-mild",
+      "aantal": 1,
+      "kosten": 2.05,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €10,25/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 58168,
+      "titel": "AH Biologisch Volkoren penne",
+      "artikel": "volkoren-penne",
+      "aantal": 1,
+      "kosten": 0.79,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €1,58/kg, 1× (150 g nodig, 350 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 494500,
+      "titel": "Mayoneur Wasabi mayo",
+      "artikel": "wasabi-mayo",
+      "aantal": 1,
+      "kosten": 2.49,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €9,96/L, 1× (20 ml nodig, 230 ml extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 238968,
+      "titel": "AH Koriander",
+      "artikel": "koriander-vers",
+      "aantal": 1,
+      "kosten": 1.29,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €86,00/kg, 1× (5 g nodig, 10 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 141565,
+      "titel": "AH Wilde zalmfilets",
+      "artikel": "wilde-zalm-diepvries",
+      "aantal": 1,
+      "kosten": 7.49,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €11,10/kg, 1× (337,5 g nodig, 337,5 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 122322,
+      "titel": "Go-Tan Gehakte gember",
+      "artikel": "gember-gehakt",
+      "aantal": 1,
+      "kosten": 2.25,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €22,50/kg, 1× (5 g nodig, 95 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 563663,
+      "titel": "Vivera Plantaardige crispy chicken burger",
+      "artikel": "vega-crispy-burger",
+      "aantal": 2,
+      "kosten": 5.84,
+      "reden": "nodig",
+      "toelichting": "25% korting: €1,46/stuk i.p.v. €1,95/stuk, 2×",
+      "besparing": 1.94
+    },
+    {
+      "productId": 478210,
+      "titel": "AH Luxe hamburger broodjes",
+      "artikel": "hamburgerbroodjes",
+      "aantal": 1,
+      "kosten": 1.99,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,50/stuk, 1× (2 stuks nodig, 2 stuks extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 772,
+      "titel": "AH Aardappelkroketjes",
+      "artikel": "aardappelkroketjes",
+      "aantal": 1,
+      "kosten": 0.95,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €1,58/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 150182,
+      "titel": "AH Aardappelpartjes knoflook en rozemarijn",
+      "artikel": "aardappelpartjes-knoflook-rozemarijn",
+      "aantal": 1,
+      "kosten": 1.79,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €2,98/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 67593,
+      "titel": "AH Veldsla",
+      "artikel": "veldsla",
+      "aantal": 1,
+      "kosten": 1.29,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €15,18/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 462708,
+      "titel": "AH Witte kaas 40+",
+      "artikel": "witte-kaas",
+      "aantal": 1,
+      "kosten": 1.18,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €5,90/kg, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 572142,
+      "titel": "AH Koolmix",
+      "artikel": "koolmix",
+      "aantal": 1,
+      "kosten": 1.69,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €11,27/kg, 1× (75 g nodig, 75 g extra)",
+      "besparing": 0
+    },
+    {
+      "productId": 579310,
+      "titel": "AH Sweet Palermo rode puntpaprika",
+      "artikel": "puntpaprika",
+      "aantal": 1,
+      "kosten": 3.49,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €0,87/stuk, 1×",
+      "besparing": 0
+    },
+    {
+      "productId": 388182,
+      "titel": "AH Sweet chili sauce",
+      "artikel": "sweet-chilisaus",
+      "aantal": 1,
+      "kosten": 1.49,
+      "reden": "nodig",
+      "toelichting": "normale prijs: €2,13/L, 1× (0 ml nodig, 700 ml extra)",
+      "besparing": 0
+    }
+  ],
+  "telling": {
+    "snoeptomaten": 0,
+    "waldkorn-brood": 0,
+    "magere-kwark": 0,
+    "kattenbakvulling": 9000,
+    "tortilla-wraps": 0,
+    "gerookte-zalm": 0,
+    "rucola": 0,
+    "houdbare-magere-melk": 0,
+    "houdbare-halfvolle-melk": 0,
+    "zuivelspread-light": 0,
+    "diepvries-banaan": 0,
+    "diepvries-blauwe-bessen": 100,
+    "chili-olie": 0,
+    "nakd-appel-kaneel": 4.5,
+    "nakd-blueberry-muffin": 0,
+    "wasmiddel-zwart": 25,
+    "wasmiddel-kleur": 25,
+    "wasmiddel-wit": 25,
+    "pindakaas": 100,
+    "havermout": 1000,
+    "walnoten": 0,
+    "eieren": 4,
+    "protein-mousse-chocolade": 0,
+    "griekse-yoghurt": 0,
+    "komkommer": 0,
+    "bloemkool-pizzabodem": 0,
+    "gorgonzola": 0,
+    "courgette": 0,
+    "basilicum-vers": 0,
+    "groene-pesto": 0,
+    "doperwten-diepvries": 0,
+    "burrata": 0,
+    "aubergine": 0,
+    "geraspte-kaas-mild": 0,
+    "volkoren-penne": 0,
+    "pompoen-diepvries": 0,
+    "zilvervliesrijst": 900,
+    "wasabi-mayo": 0,
+    "avocado-stukjes": 250,
+    "koriander-vers": 0,
+    "mango-diepvries": 1000,
+    "wilde-zalm-diepvries": 0,
+    "ketjap-manis": 165,
+    "sojasaus": 185,
+    "ketchup": 500,
+    "paprikapoeder": 48,
+    "knoflook-gehakt": 50,
+    "gember-gehakt": 0,
+    "vega-crispy-burger": 0,
+    "hamburgerbroodjes": 0,
+    "aardappelkroketjes": 0,
+    "aardappelpartjes-knoflook-rozemarijn": 0,
+    "veldsla": 0,
+    "witte-kaas": 0,
+    "augurken": 200,
+    "koolmix": 0,
+    "rijstazijn": 150,
+    "puntpaprika": 0,
+    "vega-shoarma": 0,
+    "ijsbergsla-gesneden": 0,
+    "honing": 300,
+    "griekse-yoghurt-0": 0,
+    "sweet-chilisaus": 0
+  },
+  "totaal": 130.2,
+  "besparing": 7.44
+}

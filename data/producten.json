@@ -69,7 +69,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "54074": {
     "id": 54074,
@@ -81,7 +81,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "58168": {
     "id": 58168,
@@ -117,7 +117,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "122302": {
     "id": 122302,
@@ -155,6 +155,18 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-15"
   },
+  "130191": {
+    "id": 130191,
+    "titel": "AH Gerookte zalm",
+    "merk": "AH",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "130273": {
     "id": 130273,
     "titel": "AH Verse scharreleieren M",
@@ -165,7 +177,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "140101": {
     "id": 140101,
@@ -239,6 +251,18 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-15"
   },
+  "185801": {
+    "id": 185801,
+    "titel": "AH Excellent Gerookte sockeye zalm",
+    "merk": "AH Excellent",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "193247": {
     "id": 193247,
     "titel": "AH Fijngesneden ijsbergsla",
@@ -249,6 +273,18 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "196782": {
+    "id": 196782,
+    "titel": "Omo Vloeibaar wasmiddel kleur",
+    "merk": "Omo",
+    "verpakking": "75 wasbeurten",
+    "inhoud": {
+      "waarde": 75,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
     "bijgewerkt": "2026-11-15"
   },
   "197977": {
@@ -263,6 +299,54 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-15"
   },
+  "211064": {
+    "id": 211064,
+    "titel": "AH Biologisch Gerookte zalm",
+    "merk": "AH Biologisch",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "220556": {
+    "id": 220556,
+    "titel": "Witte Reus Wasmiddel vloeibaar gel wit",
+    "merk": "Witte Reus",
+    "verpakking": "19 wasbeurten",
+    "inhoud": {
+      "waarde": 19,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
+  },
+  "220557": {
+    "id": 220557,
+    "titel": "Color Reus Wasmiddel vloeibaar gel kleur",
+    "merk": "Color Reus",
+    "verpakking": "19 wasbeurten",
+    "inhoud": {
+      "waarde": 19,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
+  },
+  "220558": {
+    "id": 220558,
+    "titel": "Zwarte Reus Wasmiddel vloeibaar gel zwart",
+    "merk": "Zwarte Reus",
+    "verpakking": "19 wasbeurten",
+    "inhoud": {
+      "waarde": 19,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
+  },
   "228639": {
     "id": 228639,
     "titel": "AH Yoghurt Griekse stijl 0% vet",
@@ -273,6 +357,18 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "232035": {
+    "id": 232035,
+    "titel": "Omo Vloeibaar wasmiddel wit",
+    "merk": "Omo",
+    "verpakking": "75 wasbeurten",
+    "inhoud": {
+      "waarde": 75,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
     "bijgewerkt": "2026-11-15"
   },
   "238968": {
@@ -309,7 +405,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "386308": {
     "id": 386308,
@@ -318,6 +414,18 @@
     "verpakking": "2 x 195 g",
     "inhoud": {
       "waarde": 390,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "387970": {
+    "id": 387970,
+    "titel": "Campina Magere milde kwark naturel",
+    "merk": "Campina",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 500,
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
@@ -369,7 +477,19 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "415001": {
+    "id": 415001,
+    "titel": "La Morena Tortilla wraps original large",
+    "merk": "La Morena",
+    "verpakking": "370 g",
+    "inhoud": {
+      "waarde": 370,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
   },
   "417518": {
     "id": 417518,
@@ -381,7 +501,19 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "429777": {
+    "id": 429777,
+    "titel": "Campina Magere milde kwark naturel voordeelpak",
+    "merk": "Campina",
+    "verpakking": "1 kg",
+    "inhoud": {
+      "waarde": 1000,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "439266": {
     "id": 439266,
@@ -393,7 +525,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "445512": {
     "id": 445512,
@@ -417,7 +549,7 @@
       "eenheid": "ml"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "450536": {
     "id": 450536,
@@ -429,7 +561,7 @@
       "eenheid": "ml"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "453733": {
     "id": 453733,
@@ -453,7 +585,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "460465": {
     "id": 460465,
@@ -465,7 +597,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "462708": {
     "id": 462708,
@@ -489,7 +621,55 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "470617": {
+    "id": 470617,
+    "titel": "AH Gerookte zalm",
+    "merk": "AH",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 200,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "471641": {
+    "id": 471641,
+    "titel": "AH Snoepgroente tomaat",
+    "merk": "AH",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "474399": {
+    "id": 474399,
+    "titel": "Calvé 100% stukjes pinda pindakaas",
+    "merk": "Calvé",
+    "verpakking": "350 g",
+    "inhoud": {
+      "waarde": 350,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "478210": {
+    "id": 478210,
+    "titel": "AH Luxe hamburger broodjes",
+    "merk": "AH",
+    "verpakking": "4 stuks",
+    "inhoud": {
+      "waarde": 4,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
   },
   "479788": {
     "id": 479788,
@@ -498,6 +678,18 @@
     "verpakking": "350 g",
     "inhoud": {
       "waarde": 350,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "481414": {
+    "id": 481414,
+    "titel": "AH Gerookte zalm",
+    "merk": "AH",
+    "verpakking": "50 g",
+    "inhoud": {
+      "waarde": 50,
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
@@ -527,6 +719,18 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-15"
   },
+  "498204": {
+    "id": 498204,
+    "titel": "Campina Yoghurt Griekse stijl 2%",
+    "merk": "Campina",
+    "verpakking": "1 kg",
+    "inhoud": {
+      "waarde": 1000,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "502068": {
     "id": 502068,
     "titel": "Vivera Plantaardige shoarma",
@@ -549,7 +753,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "506229": {
     "id": 506229,
@@ -561,7 +765,19 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "516979": {
+    "id": 516979,
+    "titel": "AH Gerookte zalm 30% verlaagd in zout",
+    "merk": "AH",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "553418": {
     "id": 553418,
@@ -597,7 +813,19 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "559293": {
+    "id": 559293,
+    "titel": "AH Walnoten",
+    "merk": "AH",
+    "verpakking": "80 g",
+    "inhoud": {
+      "waarde": 80,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "560688": {
     "id": 560688,
@@ -618,6 +846,18 @@
     "verpakking": "250 g",
     "inhoud": {
       "waarde": 250,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "561825": {
+    "id": 561825,
+    "titel": "AH Biologisch Gerookte zalm 30% verlaagd in zout",
+    "merk": "AH Biologisch",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
@@ -669,7 +909,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "570820": {
     "id": 570820,
@@ -681,7 +921,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": true,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "572142": {
     "id": 572142,
@@ -717,7 +957,19 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
+  },
+  "585900": {
+    "id": 585900,
+    "titel": "Arla Protein chocolade fudge mousse",
+    "merk": "Arla",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 200,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "589071": {
     "id": 589071,
@@ -725,11 +977,11 @@
     "merk": "Nakd.",
     "verpakking": "3 stuks",
     "inhoud": {
-      "waarde": 3,
+      "waarde": 4,
       "eenheid": "stuk"
     },
-    "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
   },
   "591782": {
     "id": 591782,
@@ -741,7 +993,7 @@
       "eenheid": "g"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "594568": {
     "id": 594568,
@@ -753,7 +1005,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": true,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "594570": {
     "id": 594570,
@@ -765,7 +1017,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": true,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "596720": {
     "id": 596720,
@@ -777,7 +1029,7 @@
       "eenheid": "stuk"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "601542": {
     "id": 601542,
@@ -789,7 +1041,7 @@
       "eenheid": "ml"
     },
     "inhoudHandmatig": false,
-    "bijgewerkt": "2026-11-01"
+    "bijgewerkt": "2026-11-15"
   },
   "611642": {
     "id": 611642,

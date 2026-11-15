@@ -6,12 +6,12 @@
 
 | Recept | Tags | Laatst gegeten | AH-lijstje |
 |---|---|---|---|
-| [Groene pizza](#groene-pizza) | vega, pizza | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/d81d909d-cb7b-4f5c-9e3e-338e43b1aac6) |
-| [Ovenpasta courgette aubergine](#ovenpasta-courgette-aubergine) | vega, pasta, ovenpasta | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/96a0425d-6d9f-4274-96df-d6d516b9d6a9) |
+| [Groene pizza](#groene-pizza) | vega, pizza | 2026-W47 | [lijstje](https://www.ah.nl/favorieten/lijst/d81d909d-cb7b-4f5c-9e3e-338e43b1aac6) |
+| [Ovenpasta courgette aubergine](#ovenpasta-courgette-aubergine) | vega, pasta, ovenpasta | 2026-W47 | [lijstje](https://www.ah.nl/favorieten/lijst/96a0425d-6d9f-4274-96df-d6d516b9d6a9) |
 | [Ovenpasta pompoen](#ovenpasta-pompoen) | vega, pasta, ovenpasta | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/1c5b3cd9-c2f9-4675-bf0f-3b1e9ba1dfce) |
-| [BBQ zalm](#bbq-zalm) | vis, rijst | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/c8b50cb4-8bda-4286-8c4d-e7790ef56743) |
-| [Aziatische burgers](#aziatische-burgers) | vega, aardappel, burger | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/74255efe-8585-48a8-b612-caed47e21aed) |
-| [Vega schnitzels met salade en aardappelpartjes](#vega-schnitzels-aardappelpartjes) | vega, aardappel | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/9ca4cfe2-7a75-47d9-ac0c-1b40d3f9e43e) |
+| [BBQ zalm](#bbq-zalm) | vis, rijst | 2026-W47 | [lijstje](https://www.ah.nl/favorieten/lijst/c8b50cb4-8bda-4286-8c4d-e7790ef56743) |
+| [Aziatische burgers](#aziatische-burgers) | vega, aardappel, burger | 2026-W47 | [lijstje](https://www.ah.nl/favorieten/lijst/74255efe-8585-48a8-b612-caed47e21aed) |
+| [Vega schnitzels met salade en aardappelpartjes](#vega-schnitzels-aardappelpartjes) | vega, aardappel | 2026-W47 | [lijstje](https://www.ah.nl/favorieten/lijst/9ca4cfe2-7a75-47d9-ac0c-1b40d3f9e43e) |
 | [Vega shoarma wraps](#vega-shoarma-wraps) | vega, wraps | nog niet | [lijstje](https://www.ah.nl/favorieten/lijst/bf9ca6cf-b1cf-45e1-b4db-d9315e4fce84) |
 
 <a id="groene-pizza"></a>
@@ -115,6 +115,7 @@
 **Ingrediënten**
 
 - 2 stuks Plantaardige crispy chicken burger — 1 pak · AH: Vivera Plantaardige crispy chicken burger
+- 2 stuks Luxe hamburgerbroodjes — 2 broodjes · AH: AH Luxe hamburger broodjes
 - 600 g Aardappelkroketjes (diepvries) — 1 zak · AH: AH Aardappelkroketjes
 - 42,5 g Veldsla — ½ zak · AH: AH Veldsla
 - 100 g Witte kaas 40+ — ½ pakje · AH: AH Witte kaas 40+

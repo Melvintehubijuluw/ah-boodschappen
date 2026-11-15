@@ -5,7 +5,8 @@
     "eenheid": "g",
     "standaard": false,
     "producten": [
-      465601
+      465601,
+      471641
     ],
     "zoekterm": "snoepgroente tomaat",
     "houdbaarheidDagen": 7,
@@ -30,11 +31,19 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      458995
+      458995,
+      387970,
+      429777
     ],
     "zoekterm": "magere kwark",
     "houdbaarheidDagen": 21,
-    "verbruikPerWeek": 1000
+    "verbruikPerWeek": 1000,
+    "afgewezen": [
+      387974,
+      474981,
+      387972,
+      555453
+    ]
   },
   {
     "id": "kattenbakvulling",
@@ -50,15 +59,26 @@
   },
   {
     "id": "tortilla-wraps",
-    "naam": "Tortilla wraps",
+    "naam": "Tortilla wraps volkoren large",
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      417518
+      453733
     ],
-    "zoekterm": "tortilla wraps",
+    "zoekterm": "tortilla wraps volkoren large",
     "houdbaarheidDagen": 30,
-    "verbruikPerWeek": 371
+    "verbruikPerWeek": 370,
+    "afgewezen": [
+      425972,
+      496270,
+      437570,
+      417525,
+      415004,
+      415005,
+      425974,
+      417518,
+      415001
+    ]
   },
   {
     "id": "gerookte-zalm",
@@ -66,12 +86,24 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      47285
+      47285,
+      470617,
+      130191,
+      481414,
+      211064,
+      516979,
+      561825,
+      185801
     ],
     "zoekterm": "gerookte zalm",
     "houdbaarheidDagen": 14,
     "bederfelijk": true,
-    "verbruikPerWeek": 200
+    "verbruikPerWeek": 200,
+    "afgewezen": [
+      168829,
+      55671,
+      601221
+    ]
   },
   {
     "id": "rucola",
@@ -145,7 +177,10 @@
     "zoekterm": "blauwe bessen",
     "houdbaarheidDagen": 270,
     "notitie": "Alleen diepvries als vervanger, geen verse bessen.",
-    "verbruikPerWeek": 1000
+    "verbruikPerWeek": 1000,
+    "afgewezen": [
+      143235
+    ]
   },
   {
     "id": "chili-olie",
@@ -189,7 +224,8 @@
     "eenheid": "stuk",
     "standaard": true,
     "producten": [
-      570820
+      570820,
+      220558
     ],
     "zoekterm": "wasmiddel zwart",
     "houdbaarheidDagen": 730,
@@ -202,12 +238,18 @@
     "eenheid": "stuk",
     "standaard": true,
     "producten": [
-      594568
+      594568,
+      220557,
+      196782
     ],
     "zoekterm": "wasmiddel kleur",
     "houdbaarheidDagen": 730,
     "notitie": "Eenheid = wasbeurt.",
-    "verbruikPerWeek": 5.6
+    "verbruikPerWeek": 5.6,
+    "afgewezen": [
+      505220,
+      381434
+    ]
   },
   {
     "id": "wasmiddel-wit",
@@ -215,12 +257,19 @@
     "eenheid": "stuk",
     "standaard": true,
     "producten": [
-      594570
+      594570,
+      220556,
+      232035
     ],
     "zoekterm": "wasmiddel wit",
     "houdbaarheidDagen": 730,
     "notitie": "Eenheid = wasbeurt.",
-    "verbruikPerWeek": 5.6
+    "verbruikPerWeek": 5.6,
+    "afgewezen": [
+      505220,
+      505203,
+      381435
+    ]
   },
   {
     "id": "pindakaas",
@@ -228,11 +277,21 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      503358
+      503358,
+      474399
     ],
     "zoekterm": "pindakaas",
     "houdbaarheidDagen": 270,
-    "verbruikPerWeek": 1000
+    "verbruikPerWeek": 1000,
+    "afgewezen": [
+      616420,
+      3579,
+      32847,
+      474398,
+      129311,
+      429174,
+      628064
+    ]
   },
   {
     "id": "havermout",
@@ -252,7 +311,8 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      460465
+      460465,
+      559293
     ],
     "zoekterm": "walnoten",
     "houdbaarheidDagen": 150,
@@ -276,11 +336,15 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      556294
+      556294,
+      585900
     ],
     "zoekterm": "protein mousse",
     "houdbaarheidDagen": 21,
-    "verbruikPerWeek": 800
+    "verbruikPerWeek": 800,
+    "afgewezen": [
+      585901
+    ]
   },
   {
     "id": "griekse-yoghurt",
@@ -288,11 +352,16 @@
     "eenheid": "g",
     "standaard": true,
     "producten": [
-      407959
+      407959,
+      498204
     ],
     "zoekterm": "griekse yoghurt",
     "houdbaarheidDagen": 21,
-    "verbruikPerWeek": 1000
+    "verbruikPerWeek": 1000,
+    "afgewezen": [
+      469187,
+      141799
+    ]
   },
   {
     "id": "komkommer",
@@ -305,7 +374,11 @@
     "zoekterm": "komkommer",
     "houdbaarheidDagen": 7,
     "bederfelijk": true,
-    "verbruikPerWeek": 2
+    "verbruikPerWeek": 2,
+    "afgewezen": [
+      197384,
+      610093
+    ]
   },
   {
     "id": "bloemkool-pizzabodem",
@@ -566,6 +639,17 @@
     "houdbaarheidDagen": 14
   },
   {
+    "id": "hamburgerbroodjes",
+    "naam": "Luxe hamburgerbroodjes",
+    "eenheid": "stuk",
+    "producten": [
+      478210
+    ],
+    "zoekterm": "luxe hamburger broodjes",
+    "houdbaarheidDagen": 5,
+    "bederfelijk": true
+  },
+  {
     "id": "aardappelkroketjes",
     "naam": "Aardappelkroketjes (diepvries)",
     "eenheid": "g",
@@ -655,16 +739,6 @@
     "afgewezen": [
       123865
     ]
-  },
-  {
-    "id": "volkoren-wraps",
-    "naam": "Tortilla wraps volkoren large",
-    "eenheid": "g",
-    "producten": [
-      453733
-    ],
-    "zoekterm": "tortilla wraps volkoren",
-    "houdbaarheidDagen": 30
   },
   {
     "id": "vega-shoarma",

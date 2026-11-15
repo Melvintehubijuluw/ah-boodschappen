@@ -241,6 +241,11 @@
         "omschrijving": "1 pak"
       },
       {
+        "artikel": "hamburgerbroodjes",
+        "hoeveelheid": 2,
+        "omschrijving": "2 broodjes"
+      },
+      {
         "artikel": "aardappelkroketjes",
         "hoeveelheid": 600,
         "omschrijving": "1 zak"
@@ -381,7 +386,7 @@
     ],
     "ingredienten": [
       {
-        "artikel": "volkoren-wraps",
+        "artikel": "tortilla-wraps",
         "hoeveelheid": 370,
         "omschrijving": "1 pak"
       },
