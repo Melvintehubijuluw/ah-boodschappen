@@ -47,7 +47,7 @@ Sla deze stap over als `status` geen vorige week toont.
    - Bij twijfel: vraag het de gebruiker.
 
 ## 5. Menu
-1. Draai `npm run ah -- menu`. Laat het voorstel zien met per dag het recept en de reden (bonus, lang niet gegeten, restjes, vastgezet).
+1. Draai `npm run ah -- menu`. Laat het voorstel zien met per dag het recept en de reden (bonus, lang niet gegeten, restjes, vastgezet). Houd rekening met de `notitie` van recepten in `data/recepten.json` (bijv. "vaak 2× per week") en pas het voorstel daarop aan.
 2. Bekijk ook vooruit-kansen. Is een bonusingrediënt van een ander recept lang genoeg houdbaar voor volgende week (bijv. verse ravioli, ±10 dagen), stel dan voor het vooruit te kopen.
 3. De gebruiker accepteert of past aan, en geeft aan wat dubbel gekookt wordt.
 4. Leg vast: `npm run ah -- menu-zet maandag=<id> dinsdag=<id> ... [--dubbel <ids>] [--vooruit <ids>]`.

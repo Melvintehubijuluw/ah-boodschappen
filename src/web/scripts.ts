@@ -77,8 +77,9 @@ JSON.stringify(d.favoriteListV2[0]);`;
 /** Script dat alle favorietenlijstjes van de gebruiker opsomt. */
 export function scriptAlleLijsten(): string {
   return `${GQL_HELPER}
-const links = [...document.querySelectorAll('a[href*="/favorieten/lijst/"]')].map(a => ({ naam: a.innerText.replace(/\\s+/g, ' ').trim(), url: a.href }));
-JSON.stringify(links);`;
+// De pagina bevat geen <a>-links naar lijstjes; favoriteListV2 met een lege ids-lijst geeft alle lijstjes.
+const lijsten = (await gql('query { favoriteListV2(ids: []) { id description totalSize } }')).favoriteListV2;
+JSON.stringify(lijsten.map(l => ({ naam: l.description, aantal: l.totalSize, url: 'https://www.ah.nl/favorieten/lijst/' + l.id.toLowerCase() })));`;
 }
 
 /**

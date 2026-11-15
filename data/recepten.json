@@ -1,0 +1,435 @@
+[
+  {
+    "id": "groene-pizza",
+    "naam": "Groene pizza",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "pizza"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "bloemkool-pizzabodem",
+        "hoeveelheid": 390,
+        "omschrijving": "1 pak (2 bodems)"
+      },
+      {
+        "artikel": "gorgonzola",
+        "hoeveelheid": 100,
+        "omschrijving": "½ pakje"
+      },
+      {
+        "artikel": "courgette",
+        "hoeveelheid": 1
+      },
+      {
+        "artikel": "basilicum-vers",
+        "hoeveelheid": 10,
+        "omschrijving": "20 blaadjes (10 per pizza)"
+      },
+      {
+        "artikel": "groene-pesto",
+        "hoeveelheid": 47.5,
+        "omschrijving": "¼ potje"
+      },
+      {
+        "artikel": "doperwten-diepvries",
+        "hoeveelheid": 225,
+        "omschrijving": "½ zak"
+      }
+    ],
+    "notitie": "Een pak gorgonzola is genoeg voor 2× dit recept: plan het vaak 2× in dezelfde week.",
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/d81d909d-cb7b-4f5c-9e3e-338e43b1aac6",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "ovenpasta-courgette-aubergine",
+    "naam": "Ovenpasta courgette aubergine",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "pasta",
+      "ovenpasta"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "snoeptomaten",
+        "hoeveelheid": 500
+      },
+      {
+        "artikel": "burrata",
+        "hoeveelheid": 250,
+        "omschrijving": "1 stuk"
+      },
+      {
+        "artikel": "basilicum-vers",
+        "hoeveelheid": 5,
+        "omschrijving": "10 blaadjes"
+      },
+      {
+        "artikel": "aubergine",
+        "hoeveelheid": 1
+      },
+      {
+        "artikel": "courgette",
+        "hoeveelheid": 1
+      },
+      {
+        "artikel": "geraspte-kaas-mild",
+        "hoeveelheid": 200,
+        "omschrijving": "1 zakje"
+      },
+      {
+        "artikel": "volkoren-penne",
+        "hoeveelheid": 150,
+        "omschrijving": "75 g p.p."
+      },
+      {
+        "artikel": "zuivelspread-light",
+        "hoeveelheid": 100,
+        "omschrijving": "½ kuipje"
+      }
+    ],
+    "notitie": "We eten vaak meerdere ovenpasta's in een week; ze delen tomaten, burrata, basilicum, kaas, penne en zuivelspread.",
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/96a0425d-6d9f-4274-96df-d6d516b9d6a9",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "ovenpasta-pompoen",
+    "naam": "Ovenpasta pompoen",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "pasta",
+      "ovenpasta"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "snoeptomaten",
+        "hoeveelheid": 500
+      },
+      {
+        "artikel": "burrata",
+        "hoeveelheid": 250,
+        "omschrijving": "1 stuk"
+      },
+      {
+        "artikel": "basilicum-vers",
+        "hoeveelheid": 5,
+        "omschrijving": "10 blaadjes"
+      },
+      {
+        "artikel": "pompoen-diepvries",
+        "hoeveelheid": 450,
+        "omschrijving": "1 zak"
+      },
+      {
+        "artikel": "geraspte-kaas-mild",
+        "hoeveelheid": 200,
+        "omschrijving": "1 zakje"
+      },
+      {
+        "artikel": "volkoren-penne",
+        "hoeveelheid": 150,
+        "omschrijving": "75 g p.p."
+      },
+      {
+        "artikel": "zuivelspread-light",
+        "hoeveelheid": 100,
+        "omschrijving": "½ kuipje"
+      }
+    ],
+    "notitie": "We eten vaak meerdere ovenpasta's in een week; ze delen tomaten, burrata, basilicum, kaas, penne en zuivelspread.",
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/1c5b3cd9-c2f9-4675-bf0f-3b1e9ba1dfce",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "bbq-zalm",
+    "naam": "BBQ zalm",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vis",
+      "rijst"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "zilvervliesrijst",
+        "hoeveelheid": 130,
+        "omschrijving": "65 g p.p."
+      },
+      {
+        "artikel": "wasabi-mayo",
+        "hoeveelheid": 20,
+        "omschrijving": "4 theelepels"
+      },
+      {
+        "artikel": "avocado-stukjes",
+        "hoeveelheid": 125
+      },
+      {
+        "artikel": "koriander-vers",
+        "hoeveelheid": 5,
+        "omschrijving": "een paar stengels"
+      },
+      {
+        "artikel": "mango-diepvries",
+        "hoeveelheid": 250
+      },
+      {
+        "artikel": "wilde-zalm-diepvries",
+        "hoeveelheid": 337.5,
+        "omschrijving": "½ zak"
+      },
+      {
+        "artikel": "ketjap-manis",
+        "hoeveelheid": 45,
+        "omschrijving": "3 eetlepels"
+      },
+      {
+        "artikel": "sojasaus",
+        "hoeveelheid": 30,
+        "omschrijving": "2 eetlepels"
+      },
+      {
+        "artikel": "ketchup",
+        "hoeveelheid": 60,
+        "omschrijving": "4 eetlepels"
+      },
+      {
+        "artikel": "paprikapoeder",
+        "hoeveelheid": 7,
+        "omschrijving": "1 eetlepel"
+      },
+      {
+        "artikel": "knoflook-gehakt",
+        "hoeveelheid": 5,
+        "omschrijving": "1 theelepel"
+      },
+      {
+        "artikel": "gember-gehakt",
+        "hoeveelheid": 2.5,
+        "omschrijving": "½ theelepel"
+      }
+    ],
+    "notitie": "Een zak zalm is genoeg voor 2×: plan het de week erna nog een keer, of soms 2× in dezelfde week. Wissel dat af.",
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/c8b50cb4-8bda-4286-8c4d-e7790ef56743",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "aziatische-burgers",
+    "naam": "Aziatische burgers",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "aardappel",
+      "burger"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "vega-crispy-burger",
+        "hoeveelheid": 2,
+        "omschrijving": "1 pak"
+      },
+      {
+        "artikel": "aardappelkroketjes",
+        "hoeveelheid": 600,
+        "omschrijving": "1 zak"
+      },
+      {
+        "artikel": "veldsla",
+        "hoeveelheid": 42.5,
+        "omschrijving": "½ zak"
+      },
+      {
+        "artikel": "witte-kaas",
+        "hoeveelheid": 100,
+        "omschrijving": "½ pakje"
+      },
+      {
+        "artikel": "snoeptomaten",
+        "hoeveelheid": 250
+      },
+      {
+        "artikel": "augurken",
+        "hoeveelheid": 100,
+        "omschrijving": "2 augurken"
+      },
+      {
+        "artikel": "ketjap-manis",
+        "hoeveelheid": 45,
+        "omschrijving": "3 eetlepels"
+      },
+      {
+        "artikel": "sojasaus",
+        "hoeveelheid": 30,
+        "omschrijving": "2 eetlepels"
+      },
+      {
+        "artikel": "ketchup",
+        "hoeveelheid": 60,
+        "omschrijving": "4 eetlepels"
+      },
+      {
+        "artikel": "paprikapoeder",
+        "hoeveelheid": 7,
+        "omschrijving": "1 eetlepel"
+      },
+      {
+        "artikel": "knoflook-gehakt",
+        "hoeveelheid": 5,
+        "omschrijving": "1 theelepel"
+      },
+      {
+        "artikel": "gember-gehakt",
+        "hoeveelheid": 2.5,
+        "omschrijving": "½ theelepel"
+      },
+      {
+        "artikel": "zuivelspread-light",
+        "hoeveelheid": 100,
+        "omschrijving": "½ kuipje"
+      },
+      {
+        "artikel": "koolmix",
+        "hoeveelheid": 75,
+        "omschrijving": "½ zakje"
+      },
+      {
+        "artikel": "rijstazijn",
+        "hoeveelheid": 7.5,
+        "omschrijving": "½ eetlepel"
+      },
+      {
+        "artikel": "puntpaprika",
+        "hoeveelheid": 2
+      }
+    ],
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/74255efe-8585-48a8-b612-caed47e21aed",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "vega-schnitzels-aardappelpartjes",
+    "naam": "Vega schnitzels met salade en aardappelpartjes",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "aardappel"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "augurken",
+        "hoeveelheid": 100,
+        "omschrijving": "2 augurken"
+      },
+      {
+        "artikel": "aardappelpartjes-knoflook-rozemarijn",
+        "hoeveelheid": 600,
+        "omschrijving": "1 zak"
+      },
+      {
+        "artikel": "vega-crispy-burger",
+        "hoeveelheid": 2,
+        "omschrijving": "1 pak"
+      },
+      {
+        "artikel": "veldsla",
+        "hoeveelheid": 42.5,
+        "omschrijving": "½ zak"
+      },
+      {
+        "artikel": "snoeptomaten",
+        "hoeveelheid": 250
+      },
+      {
+        "artikel": "witte-kaas",
+        "hoeveelheid": 100,
+        "omschrijving": "½ pakje"
+      },
+      {
+        "artikel": "puntpaprika",
+        "hoeveelheid": 2
+      },
+      {
+        "artikel": "komkommer",
+        "hoeveelheid": 0.5
+      }
+    ],
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/9ca4cfe2-7a75-47d9-ac0c-1b40d3f9e43e",
+    "toegevoegd": "2026-11-15"
+  },
+  {
+    "id": "vega-shoarma-wraps",
+    "naam": "Vega shoarma wraps",
+    "maaltijd": "diner",
+    "porties": 2,
+    "bron": "eigen",
+    "tags": [
+      "vega",
+      "wraps"
+    ],
+    "ingredienten": [
+      {
+        "artikel": "volkoren-wraps",
+        "hoeveelheid": 370,
+        "omschrijving": "1 pak"
+      },
+      {
+        "artikel": "vega-shoarma",
+        "hoeveelheid": 350,
+        "omschrijving": "2 pakjes"
+      },
+      {
+        "artikel": "komkommer",
+        "hoeveelheid": 0.5
+      },
+      {
+        "artikel": "ijsbergsla-gesneden",
+        "hoeveelheid": 100,
+        "omschrijving": "1 zakje"
+      },
+      {
+        "artikel": "honing",
+        "hoeveelheid": 21,
+        "omschrijving": "3 theelepels"
+      },
+      {
+        "artikel": "griekse-yoghurt-0",
+        "hoeveelheid": 200
+      },
+      {
+        "artikel": "knoflook-gehakt",
+        "hoeveelheid": 5,
+        "omschrijving": "1 theelepel"
+      },
+      {
+        "artikel": "chili-olie",
+        "hoeveelheid": 5,
+        "omschrijving": "1 theelepel"
+      },
+      {
+        "artikel": "paprikapoeder",
+        "hoeveelheid": 2.5,
+        "omschrijving": "1 theelepel"
+      },
+      {
+        "artikel": "sweet-chilisaus",
+        "hoeveelheid": 15,
+        "omschrijving": "beetje"
+      }
+    ],
+    "ahLijst": "https://www.ah.nl/favorieten/lijst/bf9ca6cf-b1cf-45e1-b4db-d9315e4fce84",
+    "toegevoegd": "2026-11-15"
+  }
+]

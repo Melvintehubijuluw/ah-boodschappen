@@ -58,6 +58,7 @@ export function renderReceptenMd(
       rec.ahLijst ? `**AH-lijstje:** ${rec.ahLijst}` : null,
     ].filter(Boolean);
     r.push(meta.join("  \n"), "");
+    if (rec.notitie) r.push(`> ${rec.notitie}`, "");
     r.push("**Ingrediënten**", "");
     for (const ing of rec.ingredienten) {
       const art = artikelen.get(ing.artikel);

@@ -69,6 +69,8 @@ export const ReceptSchema = z.object({
   ingredienten: z.array(IngredientSchema).min(1),
   /** Alleen voor eigen recepten: bereidingsstappen. Online recepten linken naar de bron. */
   bereiding: z.array(z.string()).optional(),
+  /** Planningswensen van de gebruikers, bijv. "vaak 2× per week, want een halve gorgonzola blijft over". */
+  notitie: z.string().optional(),
   toegevoegd: z.string(),
 });
 export type Recept = z.infer<typeof ReceptSchema>;

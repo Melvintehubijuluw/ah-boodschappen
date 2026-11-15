@@ -3,14 +3,13 @@
     "id": "snoeptomaten",
     "naam": "Snoeptomaten",
     "eenheid": "g",
-    "standaard": true,
+    "standaard": false,
     "producten": [
       465601
     ],
     "zoekterm": "snoepgroente tomaat",
     "houdbaarheidDagen": 7,
-    "bederfelijk": true,
-    "verbruikPerWeek": 1000
+    "bederfelijk": true
   },
   {
     "id": "waldkorn-brood",
@@ -307,5 +306,418 @@
     "houdbaarheidDagen": 7,
     "bederfelijk": true,
     "verbruikPerWeek": 2
+  },
+  {
+    "id": "bloemkool-pizzabodem",
+    "naam": "Bloemkool pizzabodem",
+    "eenheid": "g",
+    "producten": [
+      386308
+    ],
+    "zoekterm": "bloemkoolbodem pizza",
+    "houdbaarheidDagen": 10
+  },
+  {
+    "id": "gorgonzola",
+    "naam": "Gorgonzola",
+    "eenheid": "g",
+    "producten": [
+      567317
+    ],
+    "zoekterm": "gorgonzola",
+    "houdbaarheidDagen": 28,
+    "bederfelijk": true
+  },
+  {
+    "id": "courgette",
+    "naam": "Courgette",
+    "eenheid": "stuk",
+    "producten": [
+      4164
+    ],
+    "zoekterm": "courgette",
+    "houdbaarheidDagen": 7,
+    "bederfelijk": true
+  },
+  {
+    "id": "basilicum-vers",
+    "naam": "Verse basilicum (bakje)",
+    "eenheid": "g",
+    "producten": [
+      611642
+    ],
+    "zoekterm": "basilicum",
+    "houdbaarheidDagen": 5,
+    "bederfelijk": true,
+    "notitie": "1 blaadje ≈ 0,5 g."
+  },
+  {
+    "id": "groene-pesto",
+    "naam": "Groene pesto",
+    "eenheid": "g",
+    "producten": [
+      170655
+    ],
+    "zoekterm": "groene pesto",
+    "houdbaarheidDagen": 60,
+    "bederfelijk": true,
+    "notitie": "Na openen ±1 week houdbaar."
+  },
+  {
+    "id": "doperwten-diepvries",
+    "naam": "Doperwten fijn (diepvries)",
+    "eenheid": "g",
+    "producten": [
+      788
+    ],
+    "zoekterm": "tuinerwten fijn",
+    "houdbaarheidDagen": 270
+  },
+  {
+    "id": "burrata",
+    "naam": "Burrata",
+    "eenheid": "g",
+    "producten": [
+      560692
+    ],
+    "zoekterm": "burrata",
+    "houdbaarheidDagen": 7,
+    "bederfelijk": true
+  },
+  {
+    "id": "aubergine",
+    "naam": "Aubergine",
+    "eenheid": "stuk",
+    "producten": [
+      4180
+    ],
+    "zoekterm": "aubergine",
+    "houdbaarheidDagen": 7,
+    "bederfelijk": true
+  },
+  {
+    "id": "geraspte-kaas-mild",
+    "naam": "Geraspte kaas mild 45+",
+    "eenheid": "g",
+    "producten": [
+      140101,
+      560688
+    ],
+    "zoekterm": "geraspt mild 45+",
+    "houdbaarheidDagen": 21
+  },
+  {
+    "id": "volkoren-penne",
+    "naam": "Volkoren penne",
+    "eenheid": "g",
+    "producten": [
+      58168
+    ],
+    "zoekterm": "volkoren penne",
+    "houdbaarheidDagen": 365
+  },
+  {
+    "id": "pompoen-diepvries",
+    "naam": "Pompoenstukjes (diepvries)",
+    "eenheid": "g",
+    "producten": [
+      553673
+    ],
+    "zoekterm": "pompoen stukjes",
+    "houdbaarheidDagen": 270
+  },
+  {
+    "id": "zilvervliesrijst",
+    "naam": "Zilvervliesrijst",
+    "eenheid": "g",
+    "producten": [
+      162513
+    ],
+    "zoekterm": "zilvervliesrijst",
+    "houdbaarheidDagen": 365
+  },
+  {
+    "id": "wasabi-mayo",
+    "naam": "Wasabi-mayo",
+    "eenheid": "ml",
+    "producten": [
+      494500
+    ],
+    "zoekterm": "wasabi mayo",
+    "houdbaarheidDagen": 180,
+    "voorraadkast": true
+  },
+  {
+    "id": "avocado-stukjes",
+    "naam": "Avocadostukjes",
+    "eenheid": "g",
+    "producten": [
+      365661
+    ],
+    "zoekterm": "avocado stukjes",
+    "houdbaarheidDagen": 180,
+    "notitie": "Aangenomen: diepvries. Corrigeer als het vers is."
+  },
+  {
+    "id": "koriander-vers",
+    "naam": "Verse koriander (bakje)",
+    "eenheid": "g",
+    "producten": [
+      238968
+    ],
+    "zoekterm": "koriander",
+    "houdbaarheidDagen": 5,
+    "bederfelijk": true
+  },
+  {
+    "id": "mango-diepvries",
+    "naam": "Mangostukjes (diepvries)",
+    "eenheid": "g",
+    "producten": [
+      445512
+    ],
+    "zoekterm": "mangostukjes",
+    "houdbaarheidDagen": 270
+  },
+  {
+    "id": "wilde-zalm-diepvries",
+    "naam": "Wilde zalmfilets (diepvries)",
+    "eenheid": "g",
+    "producten": [
+      141565
+    ],
+    "zoekterm": "wilde zalmfilets",
+    "houdbaarheidDagen": 180
+  },
+  {
+    "id": "ketjap-manis",
+    "naam": "Ketjap manis",
+    "eenheid": "ml",
+    "producten": [
+      388293,
+      167782
+    ],
+    "zoekterm": "ketjap manis",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true
+  },
+  {
+    "id": "sojasaus",
+    "naam": "Sojasaus",
+    "eenheid": "ml",
+    "producten": [
+      496227
+    ],
+    "zoekterm": "sojasaus",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true
+  },
+  {
+    "id": "ketchup",
+    "naam": "Tomatenketchup",
+    "eenheid": "ml",
+    "producten": [
+      403602
+    ],
+    "zoekterm": "tomaten ketchup",
+    "houdbaarheidDagen": 180,
+    "voorraadkast": true
+  },
+  {
+    "id": "paprikapoeder",
+    "naam": "Paprikapoeder mild",
+    "eenheid": "g",
+    "producten": [
+      197977
+    ],
+    "zoekterm": "paprika mild gemalen",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true
+  },
+  {
+    "id": "knoflook-gehakt",
+    "naam": "Gehakte knoflook (pot)",
+    "eenheid": "g",
+    "producten": [
+      122302
+    ],
+    "zoekterm": "gehakte knoflook",
+    "houdbaarheidDagen": 180,
+    "voorraadkast": true
+  },
+  {
+    "id": "gember-gehakt",
+    "naam": "Gehakte gember (pot)",
+    "eenheid": "g",
+    "producten": [
+      122322
+    ],
+    "zoekterm": "gehakte gember",
+    "houdbaarheidDagen": 180,
+    "voorraadkast": true
+  },
+  {
+    "id": "vega-crispy-burger",
+    "naam": "Plantaardige crispy chicken burger",
+    "eenheid": "stuk",
+    "producten": [
+      563663
+    ],
+    "zoekterm": "vivera crispy chicken",
+    "houdbaarheidDagen": 14
+  },
+  {
+    "id": "aardappelkroketjes",
+    "naam": "Aardappelkroketjes (diepvries)",
+    "eenheid": "g",
+    "producten": [
+      772
+    ],
+    "zoekterm": "aardappelkroketjes",
+    "houdbaarheidDagen": 270
+  },
+  {
+    "id": "aardappelpartjes-knoflook-rozemarijn",
+    "naam": "Aardappelpartjes knoflook en rozemarijn",
+    "eenheid": "g",
+    "producten": [
+      150182
+    ],
+    "zoekterm": "aardappelpartjes knoflook rozemarijn",
+    "houdbaarheidDagen": 7
+  },
+  {
+    "id": "veldsla",
+    "naam": "Veldsla",
+    "eenheid": "g",
+    "producten": [
+      67593
+    ],
+    "zoekterm": "veldsla",
+    "houdbaarheidDagen": 4,
+    "bederfelijk": true
+  },
+  {
+    "id": "witte-kaas",
+    "naam": "Witte kaas 40+",
+    "eenheid": "g",
+    "producten": [
+      462708
+    ],
+    "zoekterm": "witte kaas",
+    "houdbaarheidDagen": 30,
+    "bederfelijk": true
+  },
+  {
+    "id": "augurken",
+    "naam": "Augurken groot zoetzuur",
+    "eenheid": "g",
+    "producten": [
+      37734
+    ],
+    "zoekterm": "augurken zoetzuur",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true,
+    "notitie": "1 grote augurk ≈ 50 g (incl. aandeel nat)."
+  },
+  {
+    "id": "koolmix",
+    "naam": "Koolmix",
+    "eenheid": "g",
+    "producten": [
+      572142
+    ],
+    "zoekterm": "koolmix",
+    "houdbaarheidDagen": 4,
+    "bederfelijk": true
+  },
+  {
+    "id": "rijstazijn",
+    "naam": "Rijstazijn",
+    "eenheid": "ml",
+    "producten": [
+      553418
+    ],
+    "zoekterm": "rijstazijn",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true
+  },
+  {
+    "id": "puntpaprika",
+    "naam": "Rode puntpaprika",
+    "eenheid": "stuk",
+    "producten": [
+      123865,
+      579310
+    ],
+    "zoekterm": "puntpaprika",
+    "houdbaarheidDagen": 7,
+    "bederfelijk": true,
+    "notitie": "Pak van 500 g ≈ 4 stuks; goedkoper per stuk bij meerdere gerechten."
+  },
+  {
+    "id": "volkoren-wraps",
+    "naam": "Tortilla wraps volkoren large",
+    "eenheid": "g",
+    "producten": [
+      453733
+    ],
+    "zoekterm": "tortilla wraps volkoren",
+    "houdbaarheidDagen": 30
+  },
+  {
+    "id": "vega-shoarma",
+    "naam": "Plantaardige shoarma",
+    "eenheid": "g",
+    "producten": [
+      502068
+    ],
+    "zoekterm": "vivera shoarma",
+    "houdbaarheidDagen": 14
+  },
+  {
+    "id": "ijsbergsla-gesneden",
+    "naam": "Fijngesneden ijsbergsla",
+    "eenheid": "g",
+    "producten": [
+      193247
+    ],
+    "zoekterm": "ijsbergsla fijngesneden",
+    "houdbaarheidDagen": 4,
+    "bederfelijk": true
+  },
+  {
+    "id": "honing",
+    "naam": "Honing",
+    "eenheid": "g",
+    "producten": [
+      563730,
+      479788
+    ],
+    "zoekterm": "honing",
+    "houdbaarheidDagen": 730,
+    "voorraadkast": true
+  },
+  {
+    "id": "griekse-yoghurt-0",
+    "naam": "Yoghurt Griekse stijl 0% vet",
+    "eenheid": "g",
+    "producten": [
+      228639
+    ],
+    "zoekterm": "yoghurt griekse stijl 0%",
+    "houdbaarheidDagen": 14,
+    "bederfelijk": true
+  },
+  {
+    "id": "sweet-chilisaus",
+    "naam": "Sweet chilisaus",
+    "eenheid": "ml",
+    "producten": [
+      388182
+    ],
+    "zoekterm": "sweet chili",
+    "houdbaarheidDagen": 365,
+    "voorraadkast": true
   }
 ]

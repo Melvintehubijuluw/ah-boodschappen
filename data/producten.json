@@ -1,4 +1,64 @@
 {
+  "772": {
+    "id": 772,
+    "titel": "AH Aardappelkroketjes",
+    "merk": "AH",
+    "verpakking": "600 g",
+    "inhoud": {
+      "waarde": 600,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "788": {
+    "id": 788,
+    "titel": "AH Tuinerwten fijn",
+    "merk": "AH",
+    "verpakking": "450 g",
+    "inhoud": {
+      "waarde": 450,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "4164": {
+    "id": 4164,
+    "titel": "AH Courgette",
+    "merk": "AH",
+    "verpakking": "per stuk",
+    "inhoud": {
+      "waarde": 1,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "4180": {
+    "id": 4180,
+    "titel": "AH Aubergine",
+    "merk": "AH",
+    "verpakking": "per stuk",
+    "inhoud": {
+      "waarde": 1,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "37734": {
+    "id": 37734,
+    "titel": "AH Augurken groot zoetzuur",
+    "merk": "AH",
+    "verpakking": "1,55 kg",
+    "inhoud": {
+      "waarde": 1550,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "47285": {
     "id": 47285,
     "titel": "Olav's Gerookte zalmfilet",
@@ -23,6 +83,30 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
   },
+  "58168": {
+    "id": 58168,
+    "titel": "AH Biologisch Volkoren penne",
+    "merk": "AH Biologisch",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "67593": {
+    "id": 67593,
+    "titel": "AH Veldsla",
+    "merk": "AH",
+    "verpakking": "85 g",
+    "inhoud": {
+      "waarde": 85,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "111767": {
     "id": 111767,
     "titel": "AH Rucola",
@@ -34,6 +118,42 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "122302": {
+    "id": 122302,
+    "titel": "Go-Tan Gehakte knoflook",
+    "merk": "Go-Tan",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "122322": {
+    "id": 122322,
+    "titel": "Go-Tan Gehakte gember",
+    "merk": "Go-Tan",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "123865": {
+    "id": 123865,
+    "titel": "AH Sweet palermo rode puntpaprika",
+    "merk": "AH",
+    "verpakking": "2 stuks",
+    "inhoud": {
+      "waarde": 2,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "130273": {
     "id": 130273,
@@ -47,6 +167,138 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
   },
+  "140101": {
+    "id": 140101,
+    "titel": "De Zaanse Hoeve Mild 45+ geraspt",
+    "merk": "De Zaanse Hoeve",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 200,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "141565": {
+    "id": 141565,
+    "titel": "AH Wilde zalmfilets",
+    "merk": "AH",
+    "verpakking": "675 g",
+    "inhoud": {
+      "waarde": 675,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "150182": {
+    "id": 150182,
+    "titel": "AH Aardappelpartjes knoflook en rozemarijn",
+    "merk": "AH",
+    "verpakking": "600 g",
+    "inhoud": {
+      "waarde": 600,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "162513": {
+    "id": 162513,
+    "titel": "AH Zilvervliesrijst",
+    "merk": "AH",
+    "verpakking": "1 kg",
+    "inhoud": {
+      "waarde": 1000,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "167782": {
+    "id": 167782,
+    "titel": "Conimex Ketjap manis",
+    "merk": "Conimex",
+    "verpakking": "0,5 l",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "170655": {
+    "id": 170655,
+    "titel": "AH Groene pesto",
+    "merk": "AH",
+    "verpakking": "190 g",
+    "inhoud": {
+      "waarde": 190,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "193247": {
+    "id": 193247,
+    "titel": "AH Fijngesneden ijsbergsla",
+    "merk": "AH",
+    "verpakking": "100 g",
+    "inhoud": {
+      "waarde": 100,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "197977": {
+    "id": 197977,
+    "titel": "AH Paprika mild gemalen",
+    "merk": "AH",
+    "verpakking": "48 g",
+    "inhoud": {
+      "waarde": 48,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "228639": {
+    "id": 228639,
+    "titel": "AH Yoghurt Griekse stijl 0% vet",
+    "merk": "AH",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "238968": {
+    "id": 238968,
+    "titel": "AH Koriander",
+    "merk": "AH",
+    "verpakking": "15 g",
+    "inhoud": {
+      "waarde": 15,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "365661": {
+    "id": 365661,
+    "titel": "AH Avocado stukjes",
+    "merk": "AH",
+    "verpakking": "250 g",
+    "inhoud": {
+      "waarde": 250,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "376521": {
     "id": 376521,
     "titel": "AH Zakje met blauwe bessen",
@@ -58,6 +310,54 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "386308": {
+    "id": 386308,
+    "titel": "Magioni bloemkoolbodem pizza",
+    "merk": "Magioni",
+    "verpakking": "2 x 195 g",
+    "inhoud": {
+      "waarde": 390,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "388182": {
+    "id": 388182,
+    "titel": "AH Sweet chili sauce",
+    "merk": "AH",
+    "verpakking": "0,7 l",
+    "inhoud": {
+      "waarde": 700,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "388293": {
+    "id": 388293,
+    "titel": "AH Ketjap manis",
+    "merk": "AH",
+    "verpakking": "0,5 l",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "403602": {
+    "id": 403602,
+    "titel": "AH Tomaten ketchup",
+    "merk": "AH",
+    "verpakking": "0,8 l",
+    "inhoud": {
+      "waarde": 800,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "407959": {
     "id": 407959,
@@ -95,6 +395,18 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
   },
+  "445512": {
+    "id": 445512,
+    "titel": "AH Zakje met mangostukjes",
+    "merk": "AH",
+    "verpakking": "1 kg",
+    "inhoud": {
+      "waarde": 1000,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "450534": {
     "id": 450534,
     "titel": "AH Houdbare halfvolle melk",
@@ -118,6 +430,18 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "453733": {
+    "id": 453733,
+    "titel": "AH Tortilla wraps volkoren large",
+    "merk": "AH",
+    "verpakking": "370 g",
+    "inhoud": {
+      "waarde": 370,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "458995": {
     "id": 458995,
@@ -143,6 +467,18 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
   },
+  "462708": {
+    "id": 462708,
+    "titel": "AH Witte kaas 40+",
+    "merk": "AH",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 200,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "465601": {
     "id": 465601,
     "titel": "AH Snoepgroente tomaat",
@@ -154,6 +490,54 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "479788": {
+    "id": 479788,
+    "titel": "AH Honing",
+    "merk": "AH",
+    "verpakking": "350 g",
+    "inhoud": {
+      "waarde": 350,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "494500": {
+    "id": 494500,
+    "titel": "Mayoneur Wasabi mayo",
+    "merk": "Mayoneur",
+    "verpakking": "250 ml",
+    "inhoud": {
+      "waarde": 250,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "496227": {
+    "id": 496227,
+    "titel": "AH Sojasaus",
+    "merk": "AH",
+    "verpakking": "250 ml",
+    "inhoud": {
+      "waarde": 250,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "502068": {
+    "id": 502068,
+    "titel": "Vivera Plantaardige shoarma",
+    "merk": "Vivera",
+    "verpakking": "175 g",
+    "inhoud": {
+      "waarde": 175,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "503358": {
     "id": 503358,
@@ -179,6 +563,30 @@
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
   },
+  "553418": {
+    "id": 553418,
+    "titel": "AH Rijstazijn",
+    "merk": "AH",
+    "verpakking": "150 ml",
+    "inhoud": {
+      "waarde": 150,
+      "eenheid": "ml"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "553673": {
+    "id": 553673,
+    "titel": "AH Biologisch Pompoen stukjes",
+    "merk": "AH Biologisch",
+    "verpakking": "450 g",
+    "inhoud": {
+      "waarde": 450,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
   "556294": {
     "id": 556294,
     "titel": "AH Protein mousse chocoladesmaak",
@@ -190,6 +598,66 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "560688": {
+    "id": 560688,
+    "titel": "De Zaanse Hoeve Mild 45+ geraspt voordeel",
+    "merk": "De Zaanse Hoeve",
+    "verpakking": "400 g",
+    "inhoud": {
+      "waarde": 400,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "560692": {
+    "id": 560692,
+    "titel": "AH Burrata 50+",
+    "merk": "AH",
+    "verpakking": "250 g",
+    "inhoud": {
+      "waarde": 250,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "563663": {
+    "id": 563663,
+    "titel": "Vivera Plantaardige crispy chicken burger",
+    "merk": "Vivera",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 2,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "563730": {
+    "id": 563730,
+    "titel": "AH Honing vloeibaar mild en zoet",
+    "merk": "AH",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 500,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "567317": {
+    "id": 567317,
+    "titel": "AH Gorgonzola 48+",
+    "merk": "AH",
+    "verpakking": "200 g",
+    "inhoud": {
+      "waarde": 200,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   },
   "569985": {
     "id": 569985,
@@ -214,6 +682,30 @@
     },
     "inhoudHandmatig": true,
     "bijgewerkt": "2026-11-01"
+  },
+  "572142": {
+    "id": 572142,
+    "titel": "AH Koolmix",
+    "merk": "AH",
+    "verpakking": "150 g",
+    "inhoud": {
+      "waarde": 150,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
+  },
+  "579310": {
+    "id": 579310,
+    "titel": "AH Sweet Palermo rode puntpaprika",
+    "merk": "AH",
+    "verpakking": "500 g",
+    "inhoud": {
+      "waarde": 4,
+      "eenheid": "stuk"
+    },
+    "inhoudHandmatig": true,
+    "bijgewerkt": "2026-11-15"
   },
   "582336": {
     "id": 582336,
@@ -298,5 +790,17 @@
     },
     "inhoudHandmatig": false,
     "bijgewerkt": "2026-11-01"
+  },
+  "611642": {
+    "id": 611642,
+    "titel": "AH Basilicum",
+    "merk": "AH",
+    "verpakking": "22 g",
+    "inhoud": {
+      "waarde": 22,
+      "eenheid": "g"
+    },
+    "inhoudHandmatig": false,
+    "bijgewerkt": "2026-11-15"
   }
 }

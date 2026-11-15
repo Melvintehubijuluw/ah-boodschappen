@@ -367,10 +367,10 @@ web
   .description("Lees het AH-standaardlijstje")
   .action(() => console.log(scriptLeesLijst(STANDAARD_LIJST)));
 web.command("lijst <id>").description("Lees een favorietenlijstje").action((id: string) => console.log(scriptLeesLijst(id)));
-web.command("lijsten").description("Lijstjes op de pagina ah.nl/favorieten").action(() => console.log(scriptAlleLijsten()));
+web.command("lijsten").description("Alle favorietenlijstjes met URL (uitvoeren op ah.nl, ingelogd)").action(() => console.log(scriptAlleLijsten()));
 web
   .command("maak-lijst <recept-id>")
-  .description("Maak het AH-lijstje voor een recept (producten = standaardproduct per ingrediënt, niet voorraadkast)")
+  .description("Maak het AH-lijstje voor een recept (producten = standaardproduct per ingrediënt, inclusief voorraadkast)")
   .action((id: string) => {
     const r = laadRecepten().find((x) => x.id === id);
     if (!r) throw new Error(`Onbekend recept ${id}`);
